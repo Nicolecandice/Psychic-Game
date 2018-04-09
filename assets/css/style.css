@@ -1,0 +1,26 @@
+body  { 
+  background: repeating-radial-gradient(red, yellow 10%, green 15%);
+
+}
+
+  header
+  {
+      background-color: black;
+      height: 50px;
+      font-family: Sansation;
+      font-weight: bold;
+      font-size: 40px;
+  }
+
+ h1 {
+      color:white;
+      text-align: center;
+  }
+
+#game {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+
+     }
